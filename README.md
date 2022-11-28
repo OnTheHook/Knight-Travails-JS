@@ -1,1 +1,2 @@
 # Knight-Travails-JS
+A solution to the "knight's travails" problem - a knight chess piece must travel from one spot on the board to another in the fewest moves possible. This was done as a project for [The Odin Project](https://www.https://www.theodinproject.com/) curriculum. 
